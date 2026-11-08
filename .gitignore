@@ -1,0 +1,93 @@
+# ===== .NET 构建产物 =====
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+build/
+bld/
+artifacts/
+
+# 编译输出文件（本源码库只保留 .cs / .csproj / .slnx）
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.lib
+*.exp
+*.obj
+*.o
+*.ilk
+*.cache
+*.tlog
+*.lastbuildstate
+*.log
+*.bin
+*.db
+
+# ===== Visual Studio / VS Code / Rider =====
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.DotSettings.user
+*.vsidx
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# ===== NuGet =====
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# ===== 测试与覆盖率 =====
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# ===== Unity 缓存与临时目录（预留，避免误提交） =====
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+[Mm]emoryCaptures/
+
+# ===== 其它临时文件 =====
+*.tmp
+*.temp
+*~
+*.swp
+*.bak
+*.orig
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# ===== 敏感信息（凭证类文件一律不入库） =====
+appsettings.*.json
+!appsettings.json
+*.pfx
+*.snk
+*.key
+*.pem
+.env
+.env.*
+
+# ===== 个人笔记（如需保留请删除此行） =====
+# （当前项目中的 .md / .txt 学习笔记均需要入库，故不做忽略）

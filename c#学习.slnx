@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="D:/code/c#学习/Lesson10算数运算符/Lesson10算数运算符.csproj" Id="dd32283f-5961-4238-9899-38695093ae13" />
+  <Project Path="D:/code/c#学习/Lesson11字符串拼接/Lesson11字符串拼接.csproj" Id="8f7a863b-b5ed-4cab-b6e6-2fbed530db24" />
+  <Project Path="D:/code/c#学习/Lesson12条件运算符/Lesson12条件运算符.csproj" Id="4e733991-c667-4ee3-9154-523b657ddb16" />
+  <Project Path="D:/code/c#学习/Lesson13逻辑运算符/Lesson13逻辑运算符.csproj" Id="4d641362-ca8a-4df0-80c9-80df6937c39f" />
+  <Project Path="D:/code/c#学习/Lesson14位运算符/Lesson14位运算符.csproj" Id="5b851f0a-ce4e-40e2-b3be-5a594359f16b" />
+  <Project Path="D:/code/c#学习/Lesson15三目运算符/Lesson15三目运算符.csproj" Id="56e9829f-45d6-43c2-adfa-9dc47d070a08" />
+  <Project Path="D:/code/c#学习/Lesson16条件分支语句if/Lesson16条件分支语句if.csproj" Id="d7d2976e-11c4-4f8e-8391-3f4aa29959f6" />
+  <Project Path="D:/code/c#学习/Lesson17条件分支语句switch/Lesson17条件分支语句switch.csproj" Id="eda8a299-c34c-4ea2-a3b5-738871de03da" />
+  <Project Path="D:/code/c#学习/Lesson2变量/Lesson2变量.csproj" Id="661db99a-75ee-496b-892d-f9348b38961f" />
+  <Project Path="D:/code/c#学习/Lesson3变量本质/Lesson3变量本质.csproj" Id="a924c439-7447-4ea6-aaf2-a4a40aca2629" />
+  <Project Path="D:/code/c#学习/Lesson4变量的命名规则/Lesson4变量的命名规则.csproj" Id="199a9a12-bab6-4d88-bac7-dc4d244df15c" />
+  <Project Path="D:/code/c#学习/Lesson5常量/Lesson5常量.csproj" Id="ea9f3f6e-a10e-4f0c-bd89-26413b28b302" />
+  <Project Path="D:/code/c#学习/Lesson6转义字符/Lesson6转义字符.csproj" Id="a48c2a1b-55f8-4e0e-817d-1bb65b275820" />
+  <Project Path="D:/code/c#学习/Lesson7隐式转换/Lesson7隐式转换.csproj" Id="89d23dd9-4c54-4fd9-aa31-ea19cad44116" />
+  <Project Path="D:/code/c#学习/Lesson8显式转换/Lesson8显式转换.csproj" Id="5424a45f-52f4-4cee-93cd-46aa7aa9bcbe" />
+  <Project Path="D:/code/c#学习/Lesson9异常捕获/Lesson9异常捕获.csproj" Id="7617c446-1ebb-4110-8e32-f9020525d44b" />
+  <Project Path="D:/code/c#学习/控制台输入输出语句/Lesson1控制台输入输出语句.csproj" />
+  <Project Path="Lesson18循环语句while/Lesson18循环语句while.csproj" Id="c8add87a-68c6-47f9-ab46-0d729d108aaf" />
+  <Project Path="Lesson19循环语句do while/Lesson19循环语句do while.csproj" Id="fb024c31-708a-42c3-b311-22f284c52af5" />
+  <Project Path="Lesson20循环语句for/Lesson20循环语句for.csproj" Id="26c8b2f1-110b-4243-b266-a1153c2afe06" />
+</Solution>

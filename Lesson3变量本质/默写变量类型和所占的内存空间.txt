@@ -1,0 +1,18 @@
+有符号：
+sbyte  1字节  8位
+short  2字节  16位
+int    4字节  32位
+long   8字节  64位
+无符号：
+byte    1字节  8位
+ushort  2字节  16位
+uint    4字节  32位
+ulong   8字节  64位
+浮点数： 
+float      4字节  32位
+double     8字节  64位
+decimal    16字节  128位
+特殊：
+bool   1字节  8位
+char   2字节  16位
+string  可变  不固定
