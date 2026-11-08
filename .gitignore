@@ -79,6 +79,9 @@ Thumbs.db
 [Dd]esktop.ini
 .DS_Store
 
+# ===== 本地工作区数据 =====
+.workbuddy/
+
 # ===== 敏感信息（凭证类文件一律不入库） =====
 appsettings.*.json
 !appsettings.json
